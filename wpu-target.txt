@@ -1,5 +1,7 @@
 wpu target
 - konsisten belajar setiap pagi dan sore
+  * css
+  * html
 - konsisten praktek setiap malam
 - 3 bulan kedepan harus sudah bisa kerja
 - tahun depan sudah harus bisa bayar ukt sendiri 
