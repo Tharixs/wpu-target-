@@ -3,4 +3,5 @@ TARGET KULIAH
 - semester 3 mastering webdev
   * sudah bisa kerja sebagai freelance
   * mampu membiayai diri sendiri ketika kuliah
-- semester 4 belajar android studio 
+- semester 4 mulai belajar android studio 
+
