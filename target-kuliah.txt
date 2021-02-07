@@ -1,0 +1,4 @@
+TARGET KULIAH 
+- semester 2 mastering java
+- semester 3 mastering webdev
+  * sudah bisa kerja sebagai freelance
